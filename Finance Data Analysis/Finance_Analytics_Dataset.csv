@@ -1,0 +1,301 @@
+TransactionID,Date,AccountType,TransactionType,Category,Amount,Balance,PaymentMode,CustomerSegment,FraudFlag
+1,01-01-2023,Savings,Credit,Groceries,120068,16750,UPI,Retail,Yes
+2,02-01-2023,Current,Debit,Rent,145359,264540,Net Banking,Retail,No
+3,03-01-2023,Credit,Debit,EMI,119216,100390,UPI,Corporate,No
+4,04-01-2023,Savings,Debit,EMI,132038,199151,Debit Card,SME,No
+5,05-01-2023,Current,Debit,Rent,75523,400540,Cash,SME,No
+6,06-01-2023,Credit,Credit,Salary,71518,417904,Credit Card,Retail,No
+7,07-01-2023,Savings,Credit,Investment,77550,202968,Credit Card,SME,No
+8,08-01-2023,Current,Credit,Shopping,27040,15585,Debit Card,Corporate,No
+9,09-01-2023,Credit,Credit,Groceries,136269,285771,UPI,SME,No
+10,10-01-2023,Credit,Debit,Rent,100660,261469,Net Banking,Corporate,No
+11,11-01-2023,Credit,Debit,Rent,142412,123917,Debit Card,SME,No
+12,12-01-2023,Savings,Debit,Shopping,14500,84031,Cash,SME,No
+13,13-01-2023,Credit,Credit,Shopping,20377,259177,Net Banking,Corporate,Yes
+14,14-01-2023,Savings,Debit,Shopping,116846,290832,Cash,Retail,No
+15,15-01-2023,Savings,Credit,Utilities,24091,459877,Net Banking,Corporate,No
+16,16-01-2023,Savings,Credit,Groceries,84354,267925,Debit Card,Corporate,No
+17,17-01-2023,Savings,Debit,Investment,100367,478327,Net Banking,Corporate,No
+18,18-01-2023,Credit,Credit,Groceries,132325,315264,Debit Card,Retail,No
+19,19-01-2023,Credit,Credit,Salary,127204,194934,Cash,SME,No
+20,20-01-2023,Savings,Debit,Groceries,36086,257208,Cash,Retail,No
+21,21-01-2023,Savings,Debit,Salary,87212,199599,Credit Card,SME,Yes
+22,22-01-2023,Current,Debit,Rent,5237,176243,Debit Card,Corporate,No
+23,23-01-2023,Savings,Debit,Shopping,3042,149688,Credit Card,Corporate,No
+24,24-01-2023,Savings,Credit,Rent,16694,338926,Credit Card,Corporate,No
+25,25-01-2023,Current,Debit,EMI,16867,383397,Net Banking,Retail,No
+26,26-01-2023,Savings,Credit,Utilities,83659,282004,UPI,Corporate,No
+27,27-01-2023,Current,Debit,Groceries,52452,89537,Net Banking,Corporate,No
+28,28-01-2023,Savings,Credit,Shopping,19233,255536,UPI,Corporate,Yes
+29,29-01-2023,Credit,Credit,Salary,102688,489984,Cash,SME,No
+30,30-01-2023,Savings,Credit,EMI,37444,387859,Credit Card,Corporate,No
+31,31-01-2023,Current,Debit,Utilities,38043,122825,Cash,SME,No
+32,01-02-2023,Credit,Debit,Investment,43233,103901,Cash,Corporate,No
+33,02-02-2023,Credit,Credit,Utilities,42933,446563,Credit Card,Corporate,No
+34,03-02-2023,Savings,Credit,Utilities,125780,232369,Cash,Retail,No
+35,04-02-2023,Credit,Debit,EMI,99619,163940,Net Banking,Retail,No
+36,05-02-2023,Current,Debit,EMI,147694,129513,Debit Card,Corporate,Yes
+37,06-02-2023,Savings,Debit,Shopping,18547,466185,Credit Card,SME,No
+38,07-02-2023,Savings,Debit,Groceries,118719,314516,Credit Card,SME,No
+39,08-02-2023,Current,Credit,Investment,97621,95073,Net Banking,SME,No
+40,09-02-2023,Savings,Credit,Investment,89369,16398,Net Banking,Corporate,No
+41,10-02-2023,Savings,Debit,Groceries,41770,498487,UPI,SME,No
+42,11-02-2023,Credit,Credit,EMI,149580,153603,Debit Card,Retail,No
+43,12-02-2023,Current,Credit,EMI,56776,441618,Cash,Corporate,Yes
+44,13-02-2023,Savings,Credit,Rent,35220,264821,UPI,SME,No
+45,14-02-2023,Savings,Debit,Shopping,34714,21537,UPI,SME,No
+46,15-02-2023,Savings,Debit,Groceries,118381,282373,Net Banking,Retail,No
+47,16-02-2023,Credit,Credit,EMI,114640,385371,Net Banking,Retail,No
+48,17-02-2023,Current,Credit,Investment,78436,303710,Net Banking,Retail,No
+49,18-02-2023,Savings,Credit,EMI,4000,234585,Debit Card,Corporate,No
+50,19-02-2023,Current,Credit,Groceries,65011,146360,Cash,SME,No
+51,20-02-2023,Savings,Credit,Salary,125630,405038,Cash,SME,No
+52,21-02-2023,Savings,Credit,Utilities,107556,262206,Debit Card,Corporate,No
+53,22-02-2023,Current,Credit,Salary,57180,361573,Net Banking,Retail,No
+54,23-02-2023,Savings,Debit,EMI,128502,227587,UPI,Retail,No
+55,24-02-2023,Current,Credit,Utilities,79323,341480,UPI,Corporate,No
+56,25-02-2023,Current,Credit,Rent,4755,112516,Credit Card,Corporate,No
+57,26-02-2023,Savings,Debit,Rent,26627,162254,UPI,SME,No
+58,27-02-2023,Current,Credit,Rent,19693,215809,Credit Card,Corporate,No
+59,28-02-2023,Credit,Debit,Utilities,141293,256004,Credit Card,Retail,No
+60,01-03-2023,Current,Credit,Investment,55368,222296,Credit Card,SME,No
+61,02-03-2023,Current,Debit,Groceries,109706,85056,Net Banking,Corporate,No
+62,03-03-2023,Current,Credit,Shopping,122245,116949,Debit Card,SME,No
+63,04-03-2023,Current,Credit,Groceries,142355,69270,Net Banking,SME,No
+64,05-03-2023,Current,Debit,Shopping,71611,409993,Net Banking,Corporate,No
+65,06-03-2023,Credit,Debit,Groceries,129359,129958,UPI,Corporate,No
+66,07-03-2023,Credit,Credit,Investment,77297,304217,Net Banking,SME,No
+67,08-03-2023,Credit,Debit,Utilities,88467,98154,Cash,Corporate,No
+68,09-03-2023,Current,Debit,Investment,60206,195305,UPI,Corporate,No
+69,10-03-2023,Credit,Credit,EMI,62362,372675,UPI,Corporate,No
+70,11-03-2023,Savings,Credit,Rent,18085,488955,Credit Card,SME,Yes
+71,12-03-2023,Savings,Credit,Utilities,56546,444744,Debit Card,Retail,No
+72,13-03-2023,Current,Debit,EMI,128275,314331,UPI,Retail,No
+73,14-03-2023,Current,Credit,Investment,77908,306674,Cash,Corporate,No
+74,15-03-2023,Current,Debit,Investment,107479,382093,UPI,Retail,No
+75,16-03-2023,Savings,Debit,Salary,71076,483356,Credit Card,SME,No
+76,17-03-2023,Credit,Credit,EMI,144264,466651,Debit Card,SME,No
+77,18-03-2023,Credit,Debit,Salary,86262,162736,Cash,Corporate,No
+78,19-03-2023,Savings,Debit,Rent,70330,461641,Cash,SME,Yes
+79,20-03-2023,Savings,Credit,Shopping,101014,96962,Debit Card,Corporate,No
+80,21-03-2023,Current,Debit,Salary,18788,480693,UPI,SME,No
+81,22-03-2023,Savings,Credit,Shopping,14501,426199,Cash,Corporate,No
+82,23-03-2023,Savings,Debit,Investment,132842,90775,UPI,Retail,No
+83,24-03-2023,Savings,Debit,Shopping,38416,109501,Cash,Corporate,No
+84,25-03-2023,Savings,Debit,Shopping,59768,128985,Cash,Corporate,No
+85,26-03-2023,Credit,Credit,Investment,33571,173713,Credit Card,Retail,No
+86,27-03-2023,Credit,Credit,Salary,648,497313,Credit Card,Retail,No
+87,28-03-2023,Credit,Credit,Shopping,102533,314537,Credit Card,Retail,No
+88,29-03-2023,Current,Credit,Rent,87498,233226,Net Banking,Retail,No
+89,30-03-2023,Credit,Credit,Salary,92115,198145,Net Banking,Corporate,No
+90,31-03-2023,Current,Debit,EMI,68171,310702,Debit Card,SME,No
+91,01-04-2023,Savings,Debit,Utilities,98308,447624,Net Banking,Corporate,No
+92,02-04-2023,Savings,Credit,Utilities,136837,477540,Credit Card,SME,No
+93,03-04-2023,Current,Credit,Groceries,62075,340680,Cash,SME,No
+94,04-04-2023,Savings,Credit,Salary,39729,464912,Debit Card,Corporate,No
+95,05-04-2023,Credit,Credit,EMI,9958,333829,UPI,SME,No
+96,06-04-2023,Credit,Debit,Salary,141847,32014,Cash,Retail,No
+97,07-04-2023,Current,Debit,Utilities,92004,299620,UPI,Retail,No
+98,08-04-2023,Credit,Debit,EMI,113588,256248,UPI,SME,No
+99,09-04-2023,Current,Credit,EMI,43345,473572,UPI,SME,No
+100,10-04-2023,Savings,Debit,Shopping,87698,342632,Net Banking,SME,No
+101,11-04-2023,Current,Debit,Utilities,1597,126813,Cash,Retail,No
+102,12-04-2023,Credit,Debit,Salary,59820,45161,Net Banking,Retail,No
+103,13-04-2023,Current,Debit,EMI,42340,304655,Debit Card,Retail,Yes
+104,14-04-2023,Savings,Credit,Rent,33405,334860,Debit Card,Corporate,No
+105,15-04-2023,Savings,Credit,EMI,140405,18893,UPI,SME,No
+106,16-04-2023,Current,Debit,Groceries,59908,401604,Credit Card,SME,Yes
+107,17-04-2023,Current,Debit,EMI,70787,259511,Debit Card,SME,No
+108,18-04-2023,Current,Debit,Utilities,103394,231021,UPI,Retail,No
+109,19-04-2023,Credit,Debit,Rent,8286,395462,Debit Card,Retail,No
+110,20-04-2023,Savings,Debit,Utilities,61134,459174,Cash,Corporate,Yes
+111,21-04-2023,Savings,Credit,Groceries,103959,436409,Credit Card,SME,No
+112,22-04-2023,Credit,Debit,Rent,17927,478565,Debit Card,Retail,No
+113,23-04-2023,Credit,Debit,Investment,127297,237308,Credit Card,SME,No
+114,24-04-2023,Credit,Debit,Shopping,37146,139655,Debit Card,SME,No
+115,25-04-2023,Savings,Credit,Shopping,73727,308969,Credit Card,SME,No
+116,26-04-2023,Credit,Credit,Rent,113971,327942,Cash,Corporate,No
+117,27-04-2023,Savings,Debit,Groceries,114719,321293,Net Banking,Corporate,No
+118,28-04-2023,Credit,Credit,Groceries,124998,202080,Debit Card,Retail,No
+119,29-04-2023,Credit,Credit,Investment,37502,422853,Net Banking,Retail,No
+120,30-04-2023,Credit,Debit,Shopping,5230,90504,Cash,SME,No
+121,01-05-2023,Savings,Credit,Groceries,3578,481711,Credit Card,SME,No
+122,02-05-2023,Current,Debit,Rent,136958,413464,Cash,Retail,No
+123,03-05-2023,Current,Credit,Investment,87341,273624,Credit Card,Retail,No
+124,04-05-2023,Credit,Credit,Groceries,119182,453056,Debit Card,SME,No
+125,05-05-2023,Credit,Credit,EMI,56425,468180,Cash,SME,No
+126,06-05-2023,Current,Debit,Groceries,50530,165726,Debit Card,Corporate,Yes
+127,07-05-2023,Current,Debit,Rent,129410,117707,Cash,Corporate,No
+128,08-05-2023,Current,Debit,Salary,78843,417756,UPI,Corporate,No
+129,09-05-2023,Credit,Debit,EMI,82739,186380,Debit Card,SME,Yes
+130,10-05-2023,Savings,Debit,Investment,105169,450958,Credit Card,Corporate,No
+131,11-05-2023,Current,Debit,EMI,116114,168493,UPI,SME,No
+132,12-05-2023,Savings,Credit,Investment,115294,39766,Cash,Retail,No
+133,13-05-2023,Savings,Credit,EMI,133452,67196,Credit Card,Retail,No
+134,14-05-2023,Credit,Credit,Salary,134332,159246,UPI,SME,No
+135,15-05-2023,Current,Credit,Utilities,52652,114959,Debit Card,SME,No
+136,16-05-2023,Current,Credit,Rent,96541,489358,Net Banking,Corporate,No
+137,17-05-2023,Current,Debit,Groceries,131660,228023,Debit Card,Retail,No
+138,18-05-2023,Savings,Debit,Investment,102466,5869,Credit Card,Corporate,No
+139,19-05-2023,Savings,Debit,Investment,19501,367548,Cash,SME,No
+140,20-05-2023,Current,Debit,Salary,56791,85289,Credit Card,SME,No
+141,21-05-2023,Credit,Debit,Shopping,140099,113206,UPI,Corporate,No
+142,22-05-2023,Savings,Credit,Utilities,120830,269011,Net Banking,SME,No
+143,23-05-2023,Current,Debit,Shopping,81813,69792,Debit Card,Retail,No
+144,24-05-2023,Current,Debit,Investment,143475,117126,Cash,Retail,No
+145,25-05-2023,Current,Credit,Shopping,92894,159672,UPI,SME,No
+146,26-05-2023,Credit,Credit,Shopping,107471,344898,Credit Card,SME,No
+147,27-05-2023,Savings,Debit,Salary,145696,119810,UPI,Corporate,No
+148,28-05-2023,Savings,Credit,Investment,70181,193925,Cash,Retail,No
+149,29-05-2023,Current,Credit,Rent,108049,133655,Debit Card,Corporate,No
+150,30-05-2023,Savings,Debit,Investment,125203,51701,UPI,Retail,No
+151,31-05-2023,Savings,Credit,EMI,67314,112755,Net Banking,Corporate,No
+152,01-06-2023,Current,Debit,Groceries,128479,181719,Credit Card,Retail,No
+153,02-06-2023,Savings,Credit,EMI,88164,184445,Credit Card,Retail,No
+154,03-06-2023,Current,Debit,EMI,86253,161993,Debit Card,SME,No
+155,04-06-2023,Credit,Debit,Investment,100427,384783,Credit Card,Corporate,No
+156,05-06-2023,Current,Credit,Utilities,67352,207209,Debit Card,Corporate,No
+157,06-06-2023,Credit,Credit,Shopping,57394,227713,Credit Card,Corporate,No
+158,07-06-2023,Credit,Debit,Rent,55172,31781,UPI,Retail,Yes
+159,08-06-2023,Savings,Credit,Salary,94585,50978,Credit Card,Retail,No
+160,09-06-2023,Savings,Debit,Utilities,100638,68771,Credit Card,Corporate,No
+161,10-06-2023,Current,Debit,Salary,125376,400183,Cash,SME,No
+162,11-06-2023,Current,Debit,Utilities,116192,368822,Net Banking,Retail,No
+163,12-06-2023,Savings,Credit,Utilities,132423,455228,UPI,Corporate,No
+164,13-06-2023,Current,Debit,Salary,52663,424278,Credit Card,SME,No
+165,14-06-2023,Current,Debit,Salary,8922,489483,Net Banking,SME,No
+166,15-06-2023,Current,Credit,EMI,24101,289827,UPI,Corporate,Yes
+167,16-06-2023,Savings,Debit,Investment,3045,368152,UPI,SME,No
+168,17-06-2023,Savings,Debit,Salary,100265,214142,Cash,Corporate,No
+169,18-06-2023,Credit,Debit,Shopping,103318,64240,Debit Card,SME,No
+170,19-06-2023,Current,Debit,Rent,50361,87892,UPI,Retail,No
+171,20-06-2023,Current,Credit,Shopping,47684,205784,Net Banking,Retail,No
+172,21-06-2023,Credit,Debit,Rent,113678,81725,Cash,Corporate,No
+173,22-06-2023,Savings,Debit,Investment,138145,333647,Cash,Retail,No
+174,23-06-2023,Credit,Debit,Investment,48389,7032,UPI,SME,No
+175,24-06-2023,Savings,Credit,Investment,60316,107373,Net Banking,Retail,No
+176,25-06-2023,Credit,Debit,Salary,24137,384207,Net Banking,Corporate,No
+177,26-06-2023,Credit,Debit,Salary,62648,89976,UPI,SME,No
+178,27-06-2023,Current,Debit,Investment,149205,282744,Credit Card,Retail,No
+179,28-06-2023,Current,Credit,Utilities,74931,175061,Net Banking,Corporate,No
+180,29-06-2023,Current,Credit,Utilities,139074,390867,Cash,Corporate,No
+181,30-06-2023,Current,Debit,Rent,99575,140418,Debit Card,Corporate,No
+182,01-07-2023,Current,Debit,Investment,74874,299418,UPI,Retail,No
+183,02-07-2023,Credit,Credit,Shopping,29258,38580,UPI,Corporate,No
+184,03-07-2023,Savings,Credit,Investment,122795,81926,Cash,Corporate,No
+185,04-07-2023,Savings,Credit,EMI,25066,130193,UPI,Retail,No
+186,05-07-2023,Current,Debit,Utilities,96443,436746,Credit Card,SME,No
+187,06-07-2023,Current,Credit,Shopping,114485,301801,Debit Card,Retail,No
+188,07-07-2023,Credit,Debit,Salary,5185,10700,UPI,Corporate,No
+189,08-07-2023,Current,Debit,Rent,84393,321674,Credit Card,Retail,No
+190,09-07-2023,Current,Debit,Utilities,138567,464230,Cash,Retail,No
+191,10-07-2023,Credit,Debit,Salary,143032,191328,Cash,Retail,No
+192,11-07-2023,Savings,Debit,Investment,92868,425805,Credit Card,Corporate,No
+193,12-07-2023,Current,Debit,Groceries,20031,464074,Net Banking,SME,No
+194,13-07-2023,Credit,Debit,Investment,148167,451257,Cash,Retail,No
+195,14-07-2023,Credit,Debit,Utilities,10547,445264,Credit Card,Corporate,No
+196,15-07-2023,Credit,Credit,Investment,104259,476746,Credit Card,Corporate,No
+197,16-07-2023,Savings,Debit,Salary,64432,17440,Cash,SME,No
+198,17-07-2023,Credit,Credit,Investment,20878,147589,UPI,SME,No
+199,18-07-2023,Savings,Debit,Groceries,129655,324230,Debit Card,Corporate,No
+200,19-07-2023,Savings,Debit,Rent,70641,119904,UPI,Corporate,No
+201,20-07-2023,Current,Debit,Rent,46221,284345,Cash,SME,No
+202,21-07-2023,Savings,Debit,Utilities,19408,136758,Cash,Retail,No
+203,22-07-2023,Current,Credit,EMI,23133,200494,UPI,SME,No
+204,23-07-2023,Savings,Credit,Shopping,49759,185916,UPI,SME,No
+205,24-07-2023,Credit,Debit,Shopping,77107,357378,Cash,Corporate,No
+206,25-07-2023,Credit,Debit,Salary,1549,445010,Credit Card,Corporate,Yes
+207,26-07-2023,Credit,Credit,Rent,66845,69985,Net Banking,SME,No
+208,27-07-2023,Savings,Credit,Shopping,90124,437327,Debit Card,Corporate,No
+209,28-07-2023,Current,Credit,Investment,26323,373023,Credit Card,Corporate,No
+210,29-07-2023,Savings,Debit,Utilities,111153,449947,UPI,Retail,No
+211,30-07-2023,Credit,Credit,Rent,27075,107526,Debit Card,SME,No
+212,31-07-2023,Savings,Debit,Shopping,63715,114186,Net Banking,SME,No
+213,01-08-2023,Savings,Debit,Groceries,136266,420945,Cash,SME,No
+214,02-08-2023,Savings,Debit,Utilities,144467,38061,Debit Card,SME,Yes
+215,03-08-2023,Savings,Credit,Salary,134584,178867,Debit Card,Corporate,Yes
+216,04-08-2023,Current,Debit,Rent,112811,62045,Debit Card,SME,No
+217,05-08-2023,Credit,Credit,Groceries,132120,367677,Debit Card,Retail,No
+218,06-08-2023,Savings,Credit,Groceries,134817,194615,Debit Card,Corporate,No
+219,07-08-2023,Credit,Debit,Shopping,105481,104976,Net Banking,SME,No
+220,08-08-2023,Savings,Credit,Rent,109705,337447,UPI,Corporate,No
+221,09-08-2023,Current,Credit,Utilities,110097,470789,Credit Card,SME,Yes
+222,10-08-2023,Current,Debit,Investment,117752,71843,Debit Card,Corporate,No
+223,11-08-2023,Savings,Debit,EMI,105314,274634,UPI,SME,No
+224,12-08-2023,Current,Debit,Shopping,66352,405981,Net Banking,Retail,No
+225,13-08-2023,Credit,Debit,Utilities,44321,214624,Net Banking,Retail,No
+226,14-08-2023,Savings,Credit,Salary,74277,80843,Net Banking,SME,No
+227,15-08-2023,Savings,Credit,Shopping,61640,203198,Credit Card,SME,No
+228,16-08-2023,Savings,Credit,Utilities,98786,476062,Net Banking,Retail,No
+229,17-08-2023,Current,Debit,Salary,48450,415525,Cash,Retail,No
+230,18-08-2023,Savings,Debit,Groceries,99387,103601,Debit Card,Corporate,No
+231,19-08-2023,Current,Debit,Shopping,60673,173611,Net Banking,Retail,No
+232,20-08-2023,Current,Debit,Rent,15618,25889,Cash,Corporate,No
+233,21-08-2023,Current,Debit,EMI,70138,180006,Credit Card,Retail,No
+234,22-08-2023,Credit,Debit,Utilities,17190,204432,Credit Card,Retail,No
+235,23-08-2023,Credit,Credit,Investment,17378,16798,Cash,SME,No
+236,24-08-2023,Savings,Debit,Salary,129580,254335,Credit Card,Corporate,No
+237,25-08-2023,Savings,Credit,Investment,26142,75982,Credit Card,Retail,No
+238,26-08-2023,Savings,Debit,Utilities,27319,367309,Cash,Corporate,No
+239,27-08-2023,Credit,Debit,Salary,114887,346949,Debit Card,Corporate,No
+240,28-08-2023,Credit,Credit,Rent,30290,420575,Credit Card,SME,No
+241,29-08-2023,Savings,Debit,Groceries,142232,346792,UPI,Corporate,No
+242,30-08-2023,Credit,Debit,Salary,82692,491571,Net Banking,Corporate,No
+243,31-08-2023,Credit,Debit,Groceries,149873,401461,Credit Card,SME,No
+244,01-09-2023,Credit,Credit,Groceries,35068,438119,UPI,Retail,No
+245,02-09-2023,Current,Debit,Utilities,42977,368324,UPI,Retail,No
+246,03-09-2023,Current,Credit,Utilities,1142,354354,Net Banking,Corporate,No
+247,04-09-2023,Current,Debit,Shopping,35859,462988,UPI,SME,No
+248,05-09-2023,Savings,Debit,Groceries,72249,65666,UPI,Retail,No
+249,06-09-2023,Current,Debit,Groceries,64060,195032,Debit Card,SME,No
+250,07-09-2023,Credit,Debit,Investment,76756,15882,Debit Card,SME,No
+251,08-09-2023,Savings,Credit,EMI,53403,218573,Cash,SME,Yes
+252,09-09-2023,Current,Debit,Rent,43404,291895,Credit Card,SME,No
+253,10-09-2023,Savings,Debit,Groceries,7385,208831,Credit Card,Corporate,Yes
+254,11-09-2023,Credit,Debit,Utilities,136624,249630,Credit Card,SME,No
+255,12-09-2023,Current,Credit,EMI,51785,208869,Debit Card,SME,No
+256,13-09-2023,Current,Credit,Groceries,135530,108807,Net Banking,Corporate,No
+257,14-09-2023,Current,Credit,Groceries,113704,481116,Credit Card,Corporate,No
+258,15-09-2023,Credit,Debit,Groceries,45935,478812,Net Banking,Retail,No
+259,16-09-2023,Credit,Debit,Rent,46206,459960,UPI,Corporate,No
+260,17-09-2023,Savings,Credit,Groceries,36786,239834,Cash,Corporate,No
+261,18-09-2023,Savings,Credit,Investment,103854,66249,Cash,Corporate,Yes
+262,19-09-2023,Savings,Debit,Utilities,82055,361686,UPI,SME,No
+263,20-09-2023,Current,Credit,EMI,85069,494466,Credit Card,Retail,No
+264,21-09-2023,Credit,Debit,Rent,123017,438725,UPI,Corporate,No
+265,22-09-2023,Credit,Credit,EMI,122703,193539,Net Banking,SME,No
+266,23-09-2023,Savings,Credit,EMI,60104,52704,Net Banking,SME,No
+267,24-09-2023,Savings,Credit,Salary,24334,479693,UPI,Corporate,No
+268,25-09-2023,Current,Debit,Groceries,128593,124401,Credit Card,Retail,No
+269,26-09-2023,Savings,Credit,EMI,114642,278184,UPI,Retail,No
+270,27-09-2023,Savings,Credit,Salary,89423,69580,Credit Card,Corporate,No
+271,28-09-2023,Credit,Debit,Salary,37963,172060,Credit Card,SME,No
+272,29-09-2023,Current,Debit,Investment,68543,85031,Credit Card,Retail,No
+273,30-09-2023,Credit,Credit,Groceries,40148,145720,Debit Card,Retail,No
+274,01-10-2023,Savings,Debit,Shopping,115806,359668,Cash,Corporate,No
+275,02-10-2023,Current,Credit,Shopping,44306,294006,Credit Card,Corporate,No
+276,03-10-2023,Credit,Debit,Shopping,38783,403368,Credit Card,Retail,No
+277,04-10-2023,Savings,Credit,Rent,43197,83429,Net Banking,SME,No
+278,05-10-2023,Savings,Credit,EMI,83991,472658,Cash,Retail,No
+279,06-10-2023,Savings,Debit,Shopping,107652,226179,Debit Card,Corporate,No
+280,07-10-2023,Savings,Debit,EMI,95892,406329,Cash,Retail,No
+281,08-10-2023,Current,Credit,Groceries,51328,380282,Cash,SME,No
+282,09-10-2023,Credit,Debit,Utilities,60049,269116,Credit Card,Corporate,No
+283,10-10-2023,Savings,Debit,Salary,134295,483839,Cash,Retail,No
+284,11-10-2023,Current,Credit,Salary,74244,252579,Net Banking,Corporate,No
+285,12-10-2023,Credit,Debit,Groceries,134049,186911,Cash,Retail,No
+286,13-10-2023,Current,Debit,EMI,37356,319250,UPI,Corporate,Yes
+287,14-10-2023,Credit,Debit,Rent,2407,38656,Cash,Retail,Yes
+288,15-10-2023,Credit,Credit,Salary,99990,155391,Debit Card,SME,No
+289,16-10-2023,Current,Credit,Groceries,85583,288985,Credit Card,SME,No
+290,17-10-2023,Current,Credit,Salary,5741,200432,Net Banking,SME,No
+291,18-10-2023,Current,Debit,Utilities,115131,345053,Net Banking,Corporate,No
+292,19-10-2023,Credit,Credit,Utilities,13834,105518,Debit Card,SME,No
+293,20-10-2023,Current,Debit,Rent,106458,315536,Debit Card,Retail,No
+294,21-10-2023,Savings,Debit,Utilities,24355,223634,Debit Card,Corporate,No
+295,22-10-2023,Credit,Debit,Rent,61501,178443,UPI,Corporate,No
+296,23-10-2023,Credit,Credit,Shopping,139266,50881,Debit Card,Corporate,No
+297,24-10-2023,Credit,Debit,Rent,118849,303526,UPI,Retail,No
+298,25-10-2023,Savings,Debit,Groceries,84253,485578,Debit Card,Retail,No
+299,26-10-2023,Credit,Credit,Salary,67516,299902,UPI,Retail,No
+300,27-10-2023,Credit,Debit,Groceries,139612,288776,Net Banking,Corporate,No
